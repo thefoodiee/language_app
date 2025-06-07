@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901322841013",
+    "project_id": "language-game-70882",
+    "storage_bucket": "language-game-70882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901322841013:android:4255768e26bc1aa78257fc",
+        "android_client_info": {
+          "package_name": "com.language.game.language_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-9YH1bQC_E0ivhNj-FCXusRusXWnw-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
